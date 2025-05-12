@@ -36,30 +36,99 @@ color: blue;
 .intro{
     background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
     height: 500px;
+    align-items: center;
+    color: white;
 }
 #go{
-    width:400px;
+    width:320px;
     height: 70px;
     border-radius: 10px;
     position: sticky;
-    top: 300px; 
+    top: 300px;
+    left: 10px; 
 }
 #have{
-   width:400px;
+   width:320px;
     height: 70px;
     border-radius: 10px;
     position: sticky;
-    top: 300px;  
+    top: 300px;
+    left: 10px;  
 }
 #wee{
-   width:400px;
+   width:320px;
     height: 70px;
     border-radius: 10px;
     position: sticky;
     top: 300px; 
+    left: 10px;
+}
+#button1{
+    width:100px;
+    height: 50px;
+    border-radius: 40px;
+    position: sticky;
+    top: 300px;
+    color: azure;
+    background-color: blue;
+    left: 50px;
+    border: white;
 }
 #center{
-    width: 300px;
-    height: 200px;
+    width: 1130px;
     display: flex;
+    align-items:first baseline;
+    position: sticky;
+    left: 50px;
+    background-color: white; 
+    border-radius: 20px; 
+    word-spacing: 20px; 
+    padding: 30px 20px;
+}
+#cover{
+ background-image: url(264297-Binz-Pier.jpeg);
+ width: 230px;
+ height: 300px;
+  position: relative; 
+ left: 10px;
+}
+#cover1{
+    background-image: url(78761-Zandvoort.jpeg);
+   width: 230px;
+ height: 300px; 
+  position: relative; 
+ left: 30px;
+}
+#cover2{
+    background-image: url(../custom-built-home-of-year-b2.jpg);
+     width: 230px;
+ height: 300px;
+  position: relative; 
+ left: 50px;
+}
+#cover3{
+    background-image: url(../191201-36603-850x573.jpg);
+     width: 230px;
+ height: 300px;
+  position: relative; 
+ left: 70px;
+}
+#cover4{
+   background-image: url(../home-accomodation.jpg); 
+    width: 230px;
+ height: 300px;
+  position: relative; 
+ left: 90px;
+}
+#cover5{
+  background-image: url(../living3.jpg); 
+   width: 230px;
+ height: 300px;
+ position: relative; 
+ left: 110px;
+}
+.gang{
+    display:flex;
+    word-spacing: 5px;
+    scrollbar-width: auto;
 }
