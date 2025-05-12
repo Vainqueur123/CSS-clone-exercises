@@ -4,10 +4,16 @@ position: absolute;
     top: 14px;
     word-spacing: 12px;
 }
-#button{
-    position: absolute;
-    left: 600px;
-    top:14px;
+#vald{
+    display: flex;
+}
+#button7{
+background-color: white;
+border: 1px solid #ccc;
+border-radius: 12px;
+ position: absolute;
+ top: 5px;
+ left: 550px;
 }
 #your:hover{
     color: blue;
@@ -38,6 +44,9 @@ color: blue;
     height: 500px;
     align-items: center;
     color: white;
+    position: relative;
+    top:20px;
+    
 }
 #locater{
     width: 30px;
