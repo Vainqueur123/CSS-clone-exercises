@@ -41,7 +41,7 @@ color: blue;
 }
 .intro{
     background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
-    height: 500px;
+    height: 400px;
     align-items: center;
     color: white;
     position: relative;
@@ -102,7 +102,8 @@ color: blue;
  background-image: url(264297-Binz-Pier.jpeg);
  width: 230px;
  height: 300px;
-  position: relative; 
+  position: relative;
+  top: 150px;  
  left: 10px;
  border-radius: 30px;
  text-align: center;
@@ -113,6 +114,7 @@ color: blue;
    width: 230px;
  height: 300px; 
   position: relative; 
+ top: 150px; 
  left: 30px;
  border-radius: 30px;
  text-align: center;
@@ -121,7 +123,8 @@ color: blue;
     background-image: url(../custom-built-home-of-year-b2.jpg);
      width: 230px;
  height: 300px;
-  position: relative; 
+  position: relative;
+  top: 150px; 
  left: 50px;
  border-radius: 30px;
  text-align: center;
@@ -130,7 +133,8 @@ color: blue;
     background-image: url(../191201-36603-850x573.jpg);
      width: 230px;
  height: 300px;
-  position: relative; 
+  position: relative;
+  top: 150px;  
  left: 70px;
  border-radius: 30px;
  text-align: center;
@@ -140,6 +144,7 @@ color: blue;
     width: 230px;
  height: 300px;
   position: relative; 
+  top: 150px; 
  left: 90px;
  border-radius: 30px;
  text-align: center;
@@ -149,6 +154,7 @@ color: blue;
    width: 230px;
  height: 300px;
  position: relative; 
+ top: 150px; 
  left: 110px;
  border-radius: 30px;
  text-align: center;
@@ -183,7 +189,7 @@ button {
   cursor: pointer;
 }
 
-button img {
+button img{
   width: 20px;
   height: 20px;
 }
@@ -214,4 +220,146 @@ p {
 }
 .red{
     display: flex;
+    position: absolute;
+    top: 500px;
+}
+#move{
+ position: relative; 
+  top: 120px;
+ left: 30px;
+}
+.ger{
+    position: relative;
+    top: 200px;
+    left: auto;
+}
+.cass{
+    display: flex;
+}
+#er{
+     width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#wr{
+    width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}   
+
+#qr{
+   width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#der{
+   width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#fer{
+ width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;   
+}
+#ter{
+   width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;     
+}
+#ret{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#yut{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#tuy{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#yot{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#oiu{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#juo{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#klo{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#plo{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#uhy{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#kml{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#ihb{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
+}
+#olkm{
+width: 230px;
+ height: 300px;
+ position: relative; 
+ top: 150px; 
+ left: 110px;
 }
