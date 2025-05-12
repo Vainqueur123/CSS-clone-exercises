@@ -1,0 +1,65 @@
+.right{
+position: absolute;
+    left: 750px;
+    top: 14px;
+    word-spacing: 12px;
+}
+#button{
+    position: absolute;
+    left: 600px;
+    top:14px;
+}
+#your:hover{
+    color: blue;
+}
+#his:hover{
+    color:blue
+}
+#travel{
+    word-spacing: 1.5px;
+}
+#travel:hover{
+    color: blue;
+}
+#register{
+    word-spacing: 1.5px;
+}
+#register:hover{
+    color: blue;
+}
+#my{
+    word-spacing: 1.5px;
+}
+#my:hover{
+color: blue;
+}
+.intro{
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    height: 500px;
+}
+#go{
+    width:400px;
+    height: 70px;
+    border-radius: 10px;
+    position: sticky;
+    top: 300px; 
+}
+#have{
+   width:400px;
+    height: 70px;
+    border-radius: 10px;
+    position: sticky;
+    top: 300px;  
+}
+#wee{
+   width:400px;
+    height: 70px;
+    border-radius: 10px;
+    position: sticky;
+    top: 300px; 
+}
+#center{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
